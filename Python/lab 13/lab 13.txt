@@ -1,0 +1,6 @@
+
+LAB 13 - INVENTORY CONTROL SYSTEM
+I created a list of items and used a while loop to show the menu again and again.
+I used append(), remove() and sort() to manage the inventory.
+I used if-elif-else for choices and break to exit the program.
+mistakes made were: Wrong indentation, spelling mistakes in list methods, or removing an item without checking if it exists.

@@ -1,0 +1,6 @@
+
+LAB 17 - STUDENT RECORDS HANDLING
+I used dictionaries to store student names, roll numbers and marks.
+I created functions to calculate average, display, add and search student records.
+I used a while loop to create the menu and dictionary methods to access records.
+mistakes: Incorrect dictionary keys, missing return statements, wrong indentation or searching for a roll number that does not exist.

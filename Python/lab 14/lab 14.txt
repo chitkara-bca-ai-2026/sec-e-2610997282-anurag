@@ -1,0 +1,6 @@
+
+LAB 14 - LIBRARY BOOK COLLECTION
+I stored book details using tuples inside a list and used sets for categories.
+I used append() to add books and add() to update categories.
+I used intersection(), difference() and union() for category gap analysis.
+mistakes: Wrong tuple unpacking, forgetting to update the category set, or using incorrect set operations.

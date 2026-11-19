@@ -1,0 +1,6 @@
+
+LAB 21 - DOCUMENT STATISTICS TOOL
+I created functions to calculate document statistics and display file contents.
+I used readlines() to read the file and split() to count words.
+I used len() to calculate lines, words and characters.
+mistakes: Wrong filename, incorrect file path, or forgetting to count characters inside the loop.

@@ -1,0 +1,6 @@
+
+LAB 14 - LIBRARY BOOK COLLECTION
+I used tuples to store book details, a list to store books and sets for categories.
+I used append() and add() to insert new records and categories.
+I used intersection(), difference() and union() to compare library and wishlist categories.
+ mistakes: Wrong tuple unpacking, forgetting to update sets, or using incorrect set operations.

@@ -1,0 +1,6 @@
+
+LAB 18 - MATHEMATICS LEARNING TOOL
+I created factorial() and fibonacci() functions using recursion.
+I used base cases to stop the functions and return the results.
+I used a while loop and menu to perform both operations.
+mistakes: Missing base cases, incorrect recursive calls, or wrong indentation.

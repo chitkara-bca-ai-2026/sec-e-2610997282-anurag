@@ -1,0 +1,6 @@
+
+LAB 15 - STUDENT INFO MANAGEMENT
+I used nested dictionaries to store student details and marks using roll numbers.
+I used a while loop and if-elif-else to create the menu.
+I used dictionary methods to register, update, search and delete student records.
+mistakes: Incorrect dictionary keys, wrong indentation, or accessing a roll number that does not exist.

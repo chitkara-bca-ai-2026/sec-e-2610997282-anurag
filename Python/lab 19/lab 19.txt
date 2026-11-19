@@ -1,0 +1,6 @@
+
+LAB 19 - STUDENT NOTES MANAGEMENT
+I created functions to write and read student notes using file handling.
+I used write mode to save notes and read mode to display saved notes.
+I used os.path.exists() to check whether the file exists before reading.
+mistakes: Wrong file mode, incorrect filename, indentation errors or forgetting to close files.

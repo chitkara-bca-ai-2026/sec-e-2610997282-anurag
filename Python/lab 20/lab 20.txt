@@ -1,0 +1,6 @@
+
+LAB 20 - DAILY LOG BOOK
+I created functions to add new entries and display saved log records.
+I used append mode to add entries without deleting previous data.
+I used read mode and readlines() to display and count all entries.
+mistakes: Using write mode instead of append mode, wrong filename, or forgetting the newline character.

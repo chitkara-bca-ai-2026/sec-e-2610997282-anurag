@@ -1,0 +1,6 @@
+
+LAB 16 - UTILITY CALCULATOR
+I created a calculator using separate functions for addition, subtraction, multiplication, division, modulus and power.
+I used a while loop and menu to perform calculations and maintain calculation history.
+I used default arguments, return values and error handling.
+mistakes: Wrong function calls, division by zero, incorrect input or forgetting to update calculation history.
